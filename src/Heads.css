@@ -1,0 +1,47 @@
+header{
+    background-color: rgb(71, 73, 73);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 40px;
+    height: 45px;
+}
+
+p{
+    font-size:28px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:rgb(223, 220, 220)
+}
+
+.navigator{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Text{
+    font-size: 20px;
+    text-decoration:none;
+    color:white;
+}
+
+.Text:hover{
+    font-size: 24px;
+    color:rgb(112, 112, 238);
+    transition: all 0.5s;
+}
+
+.sociel{
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Image img{
+    height: 35px;
+}
+
+.Image img:hover{
+    height: 45px;
+    transition: all 0.5s;
+}

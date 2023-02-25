@@ -1,0 +1,25 @@
+.Postshead{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+.Postshead p{
+    text-align: center;
+}
+
+.Postshead button{
+    width: 120px;
+    height: 25px;
+    border-radius: 35px;
+    background:linear-gradient(95deg, rgb(35, 195, 185),rgb(237, 115, 115));
+    transition: all 0.15s;
+}
+
+.Postshead button:hover{
+    background:linear-gradient(95deg, rgb(237, 115, 115),rgb(35, 195, 185));
+    width: 135px;
+    height: 35px;
+}

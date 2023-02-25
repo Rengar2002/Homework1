@@ -1,0 +1,12 @@
+head{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background:linear-gradient(90deg, rgb(153, 153, 153), rgb(86, 85, 85));
+}
+
+.Home-p{
+    color:rgb(40, 40, 45);
+}

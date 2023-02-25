@@ -1,0 +1,11 @@
+.bodyselect{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    width: 500px;
+    height: 100px;
+    margin-left: 700px;
+    margin-top: 20px;
+    background-color: rgb(59, 58, 57);
+    border: solid 1px black;
+}

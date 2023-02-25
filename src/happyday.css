@@ -1,0 +1,37 @@
+.happyday{
+
+}
+
+.list1{
+    background:linear-gradient(180deg, rgb(199, 194, 194), rgb(71, 70, 70));
+    height: 95.3vh;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+
+.list2{
+    background-color: rgb(59, 63, 63);
+    width: 800px;
+    height: 380px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.list2 img{
+    width: 300px;
+    border-radius: 50px;
+}
+
+.list2,.list3 p{
+    text-align:center;
+}
+
+
+.list3{
+    width: 1200px;
+    height: 80px;
+    text-align: center;
+}
